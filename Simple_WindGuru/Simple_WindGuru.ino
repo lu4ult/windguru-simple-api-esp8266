@@ -1,6 +1,6 @@
 /*
  * Este programa genera valores aleatorio para humedad, temperatura y velocidad del viento y los publica en nuestra estación en windguru
- * 
+ *
  * Desarrollado por: Lautaro lu4ult
  * https://github.com/lu4ult/windguru-simple-api-esp8266
  */

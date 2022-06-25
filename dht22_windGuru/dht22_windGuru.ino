@@ -1,11 +1,11 @@
 /*
  *  Este programa obtiene la temperatura y humedad de uns sensor tipo DHT y publica en nuestra estación en windguru. 
  *  Como no envía valores de velocidad del viento, esos valores los enviamos como -1 (int) ya que enviar 0 es un valor posible (puede haber velocidad del viento 0 pero no -1).
- * 
+ *
  * Desarrollado por: Lautaro lu4ult
  * https://github.com/lu4ult/windguru-simple-api-esp8266
  */
- 
+
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266HTTPClient.h>
